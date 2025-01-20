@@ -1,5 +1,0 @@
-# 0 "C:/Users/micha/CLionProjects/module3lecture/division.cpp"
-# 1 "C:\\Users\\micha\\CLionProjects\\module3lecture\\cmake-build-debug//"
-# 0 "<built-in>"
-# 0 "<command-line>"
-# 1 "C:/Users/micha/CLionProjects/module3lecture/division.cpp"

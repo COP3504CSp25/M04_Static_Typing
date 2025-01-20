@@ -1,7 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/module3lecture.dir/sizeofintvsfloat.cpp.obj: dyndep
-
-build CMakeFiles/module3lecture.dir/division.cpp.obj: dyndep
-
-build CMakeFiles/module3lecture.dir/lossofprecision.cpp.obj: dyndep
-
